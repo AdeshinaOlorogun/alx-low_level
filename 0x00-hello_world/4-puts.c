@@ -3,9 +3,9 @@
 /**
  * main - Entry point
  *
- * Description -  Program that prints a statement without using print function
+ * Description: Program that prints a statement without using print function
  *
- * Return - Always 0. (Success)
+ * Return: Always 0. (Success)
  */
 int main(void)
 {
