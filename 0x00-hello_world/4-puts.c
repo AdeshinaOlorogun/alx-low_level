@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Program that prints a statement without using print function
+ * Description -  Program that prints a statement without using print function
  *
  * Return - Always 0. (Success)
  */
