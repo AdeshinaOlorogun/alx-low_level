@@ -3,7 +3,8 @@
 /**
 * reset_to_98 - takes the pointer and updates the value
 * 
-* result: Always 0 (if success)
+* return: Always 0 (if success)
+*/
 
 void reset_to_98(int *n)
 {
